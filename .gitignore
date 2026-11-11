@@ -1,0 +1,18 @@
+# ---- 构建产物 ----
+out/
+build/
+target/
+*.class
+*.jar
+*.war
+
+# ---- IDE ----
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+*.iws
+*.ipr
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
